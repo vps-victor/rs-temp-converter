@@ -11,7 +11,7 @@ _Be aware of the program's licenses before using it: [Apache 2.0](./LICENSE-APAC
 [Cargo](https://rust-book.cs.brown.edu/ch01-03-hello-cargo.html#hello-cargo): Rust's package manager and build tool, streamlining the process of managing dependencies and building projects with ease.
 
 # Dependencies & Libraries
-- use std::io;
+- [std::io](https://doc.rust-lang.org/stable/std/io/)
 
 # Usage
 Clone the repository on your machine `git clone [this-repo-url]`
